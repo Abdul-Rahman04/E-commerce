@@ -1,0 +1,44 @@
+.nava {
+  background-color: brown;
+  height: 80px;
+}
+.ula {
+  display: flex;
+  list-style: none;
+  font-weight: bolder;
+  padding-top: 1%;
+  justify-content: center;
+}
+.home,
+.movie,
+.contact,
+.carte {
+  padding: 50px 20px;
+  text-decoration: none;
+  color: rgb(231, 228, 228);
+  font-size: 2rem;
+}
+.spane {
+  color: white;
+}
+.cart {
+  color: white;
+  font-size: 2rem;
+
+  cursor: pointer;
+}
+.span {
+  color: white;
+  font-size: 2rem;
+}
+.sign {
+  height: 30px;
+  width: 80px;
+  margin-left: 70px;
+}
+.signout {
+  height: 30px;
+  width: 80px;
+  margin-left: 70px;
+  margin-top: 10px;
+}
