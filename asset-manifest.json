@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Abdul-Rahman04/E-commerce.git/static/css/main.1b8fa204.css",
+    "main.js": "/Abdul-Rahman04/E-commerce.git/static/js/main.fb7c45d6.js",
+    "static/js/787.2c438de5.chunk.js": "/Abdul-Rahman04/E-commerce.git/static/js/787.2c438de5.chunk.js",
+    "index.html": "/Abdul-Rahman04/E-commerce.git/index.html",
+    "main.1b8fa204.css.map": "/Abdul-Rahman04/E-commerce.git/static/css/main.1b8fa204.css.map",
+    "main.fb7c45d6.js.map": "/Abdul-Rahman04/E-commerce.git/static/js/main.fb7c45d6.js.map",
+    "787.2c438de5.chunk.js.map": "/Abdul-Rahman04/E-commerce.git/static/js/787.2c438de5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1b8fa204.css",
+    "static/js/main.fb7c45d6.js"
+  ]
+}
