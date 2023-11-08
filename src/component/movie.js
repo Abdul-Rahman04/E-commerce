@@ -14,7 +14,7 @@ const Movie = () => {
   );
 
   useEffect(() => {
-    fetch("https://apigenerator.dronahq.com/api/HVEHzI06/data")
+    fetch("https://apigenerator.dronahq.com/api/uW2i1QLC/data")
       .then((res) => res.json())
       .then((data) => setDatas(data));
   }, []);

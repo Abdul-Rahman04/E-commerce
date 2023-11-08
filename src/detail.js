@@ -8,7 +8,7 @@ export const Detail = ({ handleClick }) => {
   const { id } = useParams();
 
   useEffect(() => {
-    fetch(" https://apigenerator.dronahq.com/api/HVEHzI06/data")
+    fetch(" https://apigenerator.dronahq.com/api/uW2i1QLC/data")
       .then((res) => res.json())
       .then((data) => {
         const newMovie = data.find((Item) => Item.id === parseInt(id));
