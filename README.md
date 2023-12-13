@@ -3,3 +3,4 @@
 ![3](https://github.com/Abdul-Rahman04/E-commerce/assets/148424590/3d9a0b50-64f7-497d-ab72-705e44a87493)
 ![4](https://github.com/Abdul-Rahman04/E-commerce/assets/148424590/7bc4e5f2-f419-4092-bac3-4dbbdb2f42fb)
 ![5](https://github.com/Abdul-Rahman04/E-commerce/assets/148424590/1a81ef1f-aa49-48a1-b5af-b53820fa458d)
+![6](https://github.com/Abdul-Rahman04/E-commerce/assets/148424590/8c002026-1af3-450c-87e0-8969616a884f)
