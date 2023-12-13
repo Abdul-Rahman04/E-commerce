@@ -1,6 +1,5 @@
-![5](https://github.com/Abdul-Rahman04/E-commerce/assets/148424590/adc42f4b-d9ba-4e53-968a-e30349977ecb)
-![4](https://github.com/Abdul-Rahman04/E-commerce/assets/148424590/e9edd6e8-1a1a-4edb-9cb6-51e54edd7dbe)
-![3](https://github.com/Abdul-Rahman04/E-commerce/assets/148424590/00b44fe8-e163-4b20-9972-94a0dc185ce4)
-![2](https://github.com/Abdul-Rahman04/E-commerce/assets/148424590/5dd4aa14-988a-4ee0-bb58-08edd5cf043b)
-![1](https://github.com/Abdul-Rahman04/E-commerce/assets/148424590/60e3ef89-c2ad-45b4-93d7-fbf62d006ae8)
-
+![1](https://github.com/Abdul-Rahman04/E-commerce/assets/148424590/fda5dcbd-491a-498c-ac77-4979b22c2ed6)
+![2](https://github.com/Abdul-Rahman04/E-commerce/assets/148424590/161215de-e6fd-48b0-9a9e-12566d2a6fab)
+![3](https://github.com/Abdul-Rahman04/E-commerce/assets/148424590/3d9a0b50-64f7-497d-ab72-705e44a87493)
+![4](https://github.com/Abdul-Rahman04/E-commerce/assets/148424590/7bc4e5f2-f419-4092-bac3-4dbbdb2f42fb)
+![5](https://github.com/Abdul-Rahman04/E-commerce/assets/148424590/1a81ef1f-aa49-48a1-b5af-b53820fa458d)
