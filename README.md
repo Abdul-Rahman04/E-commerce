@@ -1,6 +1,1 @@
-![WhatsApp Image 2023-12-12 at 11 43 25_d7d8dc7e](https://github.com/Abdul-Rahman04/E-commerce/assets/148424590/9292618a-ce67-4c5c-b132-67f6d5d21cb7)
-![WhatsApp Image 2023-12-12 at 11 42 20_2c3c73bb](https://github.com/Abdul-Rahman04/E-commerce/assets/148424590/069be762-963b-49cf-9bdb-a9ae7e49622e)
-![WhatsApp Image 2023-12-12 at 11 41 35_cc3f0ede](https://github.com/Abdul-Rahman04/E-commerce/assets/148424590/07bce42f-3bf2-44ce-9b7a-8ccd6acb84eb)
-![WhatsApp Image 2023-12-12 at 11 41 12_4b2c5a97](https://github.com/Abdul-Rahman04/E-commerce/assets/148424590/c9f77433-83b6-4eb1-8721-882589054dad)
-![WhatsApp Image 2023-12-12 at 11 40 33_52e179d7](https://github.com/Abdul-Rahman04/E-commerce/assets/148424590/68768df2-dfef-469d-8f2f-2d620e7fc8b1)
-![WhatsApp Image 2023-12-12 at 11 39 50_51b1dd00](https://github.com/Abdul-Rahman04/E-commerce/assets/148424590/4e4884e0-5325-440b-b096-636731a39d2d)
+
